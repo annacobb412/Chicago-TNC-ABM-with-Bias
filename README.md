@@ -4,8 +4,8 @@ Based on agent-based model created by Aniruddh Mohan and used in Life Cycle Air 
 
 ## What's Included
 Replication materials for Ridehailing Technology Mitigates the Effects of Driver Racial Discrimination, but Effects of Residential Segregation Persist.
-### Julia Environment:
-The provided "V4" environment contains Project and Manifest .toml files; this environment must be activated and instantiated to run the preprocessing code, model, and postprocessing code.
+### "V4" Julia Environment:
+The provided julia environment called V4 contains Project and Manifest .toml files; this environment must be activated and instantiated to run the preprocessing code, model, and postprocessing code. There are duplicates of the environment inside the Preprocessing and Postprocessing directories.
 ### Link to Chicago OpenStreetMap File:
 To run the preprocessing code, model, and postprocessing code, you **must** download an OSM file for Chicago, which is linked [here](https://download.bbbike.org/osm/bbbike/Chicago/).
 ### Preprocessing Files:
@@ -13,6 +13,6 @@ Due to file size restrictions, not all trip input files used in the paper are in
 ### Input Files: 
 One cleaned & pre-processed day of trips (07/26/21) ready to be run. Other files in this folder are for determining driver starting positions ("driver_home_dict.jld") and determining driver repositioning behavior (directory "Repositioning Files") during simulation. 
 ### Model:
-This is the version of the model used for generating results in the paper.
+This is the version of the model used for generating the core results in the paper.
 ### Postprocessing Files:
 To run the postprocessing code, **simulation results files need to be converted to what are internally referred to as "coordinate files" (smaller, refined versions of the raw simulation results that preserve important info) using "converting_coords.jl"**. After this, the provided R scripts can create a variety of boxplot and map visualizations of wait times.
