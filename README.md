@@ -1,9 +1,11 @@
 # Chicago-TNC-ABM-with-Bias
-Agent-based model (ABM) used for running simulations of transportation network company (TNC) trips in Chicago with and without biased drivers.
-Based on agent-based model created by Aniruddh Mohan and used in Life Cycle Air Pollution, Greenhouse Gas, and Traffic Externality Benefits and Costs of Electrifying Uber and Lyft.
+Materials used in Ridehailing Technology Mitigates the Effects of Driver Racial Discrimination, but Effects of Residential Segregation Persist.
+Primary model based on agent-based model created by Aniruddh Mohan and used in:
+> Aniruddh Mohan, Matthew Bruchon, Jeremy Michalek, and Parth Vaishnav
+> Environmental Science & Technology 2023 57 (23), 8524-8535
+> DOI: 10.1021/acs.est.2c07030
 
 ## What's Included
-Replication materials for Ridehailing Technology Mitigates the Effects of Driver Racial Discrimination, but Effects of Residential Segregation Persist.
 ### V4 Julia Environment:
 The provided julia environment called V4 contains Project and Manifest .toml files; this environment must be activated and instantiated to run the preprocessing code, model, and postprocessing code. There are duplicates of the environment inside the Preprocessing and Postprocessing directories.
 ### Link to Chicago OpenStreetMap File:
