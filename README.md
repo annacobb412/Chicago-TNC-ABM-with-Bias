@@ -13,6 +13,6 @@ Due to file size restrictions, not all trip input files used in the paper are in
 ### Input Files: 
 One cleaned & pre-processed day of trips (07/26/21) ready to be run. Other files in this folder are for determining driver starting positions ("driver_home_dict.jld") and determining driver repositioning behavior (directory "Repositioning Files") during simulation. 
 ### Model:
-This is the version of the model used for generating the core results in the paper.
+This is the version of the model used for generating the core results in the paper (the file is called "tnc_abm_race.jl").
 ### Postprocessing Files:
 To run the postprocessing code, **simulation results files need to be converted to what are internally referred to as "coordinate files" (smaller, refined versions of the raw simulation results that preserve important info) using "converting_coords.jl"**. After this, the provided R scripts can create a variety of boxplot and map visualizations of wait times.
