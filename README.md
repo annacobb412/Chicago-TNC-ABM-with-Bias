@@ -1,6 +1,6 @@
 # Chicago-TNC-ABM-with-Bias
-Materials used in Ridehailing Technology Mitigates the Effects of Driver Racial Discrimination, but Effects of Residential Segregation Persist.
-Model based on agent-based model created by Aniruddh Mohan and used in:
+Materials used in paper "Ridehailing Technology Mitigates the Effects of Driver Racial Discrimination, but Effects of Residential Segregation Persist".
+Model based on agent-based model created by Aniruddh Mohan and used in paper "Life Cycle Air Pollution, Greenhouse Gas, and Traffic Externality Benefits and Costs of Electrifying Uber and Lyft":
 > Aniruddh Mohan, Matthew Bruchon, Jeremy Michalek, and Parth Vaishnav
 > Environmental Science & Technology 2023 57 (23), 8524-8535
 > DOI: 10.1021/acs.est.2c07030
