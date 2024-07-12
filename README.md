@@ -1,6 +1,6 @@
 # Chicago-TNC-ABM-with-Bias
 Materials used in Ridehailing Technology Mitigates the Effects of Driver Racial Discrimination, but Effects of Residential Segregation Persist.
-Primary model based on agent-based model created by Aniruddh Mohan and used in:
+Model based on agent-based model created by Aniruddh Mohan and used in:
 > Aniruddh Mohan, Matthew Bruchon, Jeremy Michalek, and Parth Vaishnav
 > Environmental Science & Technology 2023 57 (23), 8524-8535
 > DOI: 10.1021/acs.est.2c07030
