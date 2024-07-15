@@ -1,9 +1,11 @@
 # Chicago-TNC-ABM-with-Bias
 Materials used in paper "Ridehailing Technology Mitigates the Effects of Driver Racial Discrimination, but Effects of Residential Segregation Persist".
-Model based on agent-based model created by Aniruddh Mohan and used in paper "Life Cycle Air Pollution, Greenhouse Gas, and Traffic Externality Benefits and Costs of Electrifying Uber and Lyft":
+AgentX is an agent-based model for simulating TNC operations originally reported in the study "Life Cycle Air Pollution, Greenhouse Gas, and Traffic Externality Benefits and Costs of Electrifying Uber and Lyft”.
 > Aniruddh Mohan, Matthew Bruchon, Jeremy Michalek, and Parth Vaishnav
 > Environmental Science & Technology 2023 57 (23), 8524-8535
 > DOI: 10.1021/acs.est.2c07030
+
+This version of AgentX builds on the original formulation with modifications to driver starting locations and repositioning behavior; it also includes code for simulating biased driver behavior towards customers and some changes to preprocessing procedures. 
 
 ## What's Included
 ### V4 Julia Environment:
