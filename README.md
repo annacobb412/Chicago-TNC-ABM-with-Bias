@@ -5,7 +5,7 @@ AgentX is an agent-based model for simulating TNC operations originally reported
 > Environmental Science & Technology 2023 57 (23), 8524-8535
 > DOI: 10.1021/acs.est.2c07030
 
-This version of AgentX builds on the original formulation with modifications to driver starting locations and repositioning behavior; it also includes code for simulating biased driver behavior towards customers and some changes to preprocessing procedures. 
+This version of AgentX builds on the original formulation with modifications to driver starting locations and repositioning behavior; it also includes code for simulating biased driver behavior towards customers and some changes to preprocessing procedures. Runs on Julia version 1.7.0. 
 
 ## What's Included
 ### V4 Julia Environment:
