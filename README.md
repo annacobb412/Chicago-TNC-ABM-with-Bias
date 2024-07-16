@@ -11,7 +11,7 @@ This version of AgentX builds on the original formulation with modifications to 
 ### V4 Julia Environment:
 The provided julia environment called V4 contains Project and Manifest .toml files; this environment must be activated and instantiated to run the preprocessing code, model, and postprocessing code. There are duplicates of the environment inside the Preprocessing and Postprocessing directories.
 ### Link to Chicago OpenStreetMap File:
-To run the preprocessing code, model, and postprocessing code, you **must** download an OSM file for Chicago, which is linked [here](https://download.bbbike.org/osm/bbbike/Chicago/).
+To run the preprocessing code, model, and postprocessing code, you **must** download an OSM file for Chicago, which is linked [here](https://download.bbbike.org/osm/bbbike/Chicago/) (select the OSM XML gzip'd 142M option).
 ### Preprocessing Files:
 Due to file size restrictions on GitHub, only one of the trip input files used in the paper is included in the Input Files directory. To recreate the trip input files used in the paper, or new ones, follow the instructions in the "Process to simulate a new date" doc. This document is detailed and explains a lot: read it and follow carefully. Contact me (annacobb@andrew.cmu.edu) if questions arise.
 ### Input Files: 
