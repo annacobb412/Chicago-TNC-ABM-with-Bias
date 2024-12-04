@@ -2,7 +2,8 @@
 Materials used in paper "Ridehailing Technology Mitigates the Effects of Driver Racial Discrimination, but Effects of Residential Segregation Persist".
 > Anna Cobb, Aniruddh Mohan, Corey Harper, Destenie Nock, and Jeremy Michalek
 > Proceedings of the National Academy of Sciences 2024 121 (41) 
-> DOI: 10.1073/pnas.2408936121 
+> DOI: 10.1073/pnas.2408936121
+
 AgentX is an agent-based model for simulating TNC operations originally reported in the study "Life Cycle Air Pollution, Greenhouse Gas, and Traffic Externality Benefits and Costs of Electrifying Uber and Lyft”.
 > Aniruddh Mohan, Matthew Bruchon, Jeremy Michalek, and Parth Vaishnav
 > Environmental Science & Technology 2023 57 (23), 8524-8535
